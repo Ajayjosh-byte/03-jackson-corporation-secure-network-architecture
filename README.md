@@ -302,6 +302,8 @@ controls, segmentation, and backup measures.
 # Architecture Diagram
 The main architecture diagram was created using Draw.io.
 
+![Jackson Corporation Secure Network Architecture](Jackson_Corporation_Secure_Network_Architecture.png)
+
 
 # Project Deliverables
 - Secure network architecture diagram
